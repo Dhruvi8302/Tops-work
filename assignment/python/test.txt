@@ -1,0 +1,7 @@
+This is content of text file 1
+This is content of text file 2
+This is content of text file 3
+file updatedThis is content of text file 1
+This is content of text file 2
+This is content of text file 3
+file updated
