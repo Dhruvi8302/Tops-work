@@ -1,0 +1,167 @@
+1) What is Power BI and how does it differ from Excel?
+	Power BI is a business intelligence tool used to connect, transform, model, and visualize data interactively.
+		Difference from Excel:
+			• Power BI handles large datasets better
+			•Strong data modeling & relationships
+			•Advanced DAX calculations
+			•Easy dashboard sharing via cloud
+			•Excel is more spreadsheet-focused, Power BI is BI-focused
+
+2) Explain the concept of data modeling in Power BI? 
+	Data Modeling in Power BI is the process of organizing, connecting, and structuring data from different tables so that it can be analyzed easily and accurately
+		It includes:
+		   •Defining relationships
+		   •Creating fact & dimension tables
+		   •Using primary & foreign keys
+		   •Optimizing performance
+
+3) What are the different types of connections available in Power BI?
+  	Import Mode – Data is loaded into Power BI (fastest)
+  	DirectQuery – Data stays in source, real-time querying
+  	Live Connection – Connects to SSAS or Power BI dataset
+  	Composite Model – Mix of Import + DirectQuery
+
+4) How do you handle data transformation in Power BI? 
+	Using Power Query Editor:
+ 		•Remove duplicates
+ 		•Handle missing values
+ 		•Merge tables
+ 		•Split columns
+		•Change data types
+		•Create calculated columns
+		All transformations are saved as steps.
+
+5) What is DAX (Data Analysis Expressions) and why is it important in Power BI?
+	DAX (Data Analysis Expressions) is a formula language used for:
+		•Calculated columns
+		•Measures
+		•Time intelligence
+	It allows dynamic calculations like:
+		•YTD sales
+		•Growth %
+		•Running totals
+
+6) Can you explain the difference between calculated columns and measures in Power BI?
+		Calculated Column	Measure
+		Row-level calculation	Aggregated calculation
+		Stored in table	        Calculated on demand
+		Increases model size	Lightweight
+		Used for filtering	Used in visuals
+
+7) How do you handle relationships between tables in Power BI? 
+	In Model View:
+		•Create relationships via primary & foreign keys
+		•Select cardinality (usually One-to-Many (1:*)).
+		•Set cross-filter direction
+		•Use star schema design
+
+8) What is the purpose of a Power BI Gateway? 
+	Gateway connects on-premise data sources to Power BI Service for refresh.
+		Types:
+		    •Personal Mode – Used by one user for personal reports.
+		    •Standard Mode (Enterprise Gateway) – Used by teams and multiple users.
+	
+9) How can you schedule data refresh in Power BI Service?
+	Steps to Schedule Data Refresh in Power BI Service
+		1. Publish the Report
+		2. Go to Workspace
+		3. Open Dataset Settings
+		4. Configure Data Source Credentials
+		5. Enable Scheduled Refresh
+		6. Set Refresh Frequency
+		7. Save Settings
+
+10) Explain the concept of row-level security in Power BI. 
+	Row-Level Security in Power BI restricts which rows of data a user can see in a report based on defined roles and filters.
+
+11) What is the Power BI Desktop and how does it differ from Power BI Service? 
+		
+		Feature	        Power BI Desktop	    Power BI Service
+
+		Platform	Desktop application	   Cloud (Web-based)
+		Main Use	Create reports	           Share & manage reports
+		Data Modeling	Yes	    		   Limited
+		Collaboration	No			   Yes
+		Installation	Required	           Not required
+
+12) Explain the concept of Direct Query in Power BI.
+		DirectQuery allows Power BI to retrieve data directly from the source database in real time instead of importing it into the Power BI model.
+
+13) What are Power BI templates and how are they useful?
+	Template (.pbit) files contain:
+		•Data model
+		•Queries
+		•DAX measures
+		•Report layout and visuals
+
+14) How do you handle incremental data refresh in Power BI? 
+	Incremental refresh loads only new or changed data.
+		Steps:
+		•Create Date/Time Parameters
+		•Filter Data Using Parameters
+		•Enable Incremental Refresh
+		•Configure Refresh Policy
+		•Publish to Power BI Service
+	Improves performance for large datasets.
+
+15) What is the role of Power Query in Power BI? 
+	Power Query is used for:
+		•Data cleaning
+		•Data transformation
+		•ETL process
+	It prepares raw data before modeling.
+
+16) Explain the difference between calculated columns and calculated tables in Power BI.
+		 
+	Basis       	Calculated Column         		Calculated Table           
+
+ 	Output       	Creates a new column      		Creates a new table         
+ 	Scope        	Works inside one table    		Can combine multiple tables 
+	Calculation  	Row by row                		Table-level calculation     
+ 	Storage      	Stored in existing table  		Stored as a separate table  
+
+17) How do you create custom visuals in Power BI? 
+  	-- Import visuals from marketplace
+  	-- Use R or Python visuals
+  	-- Develop using Power BI Custom Visual SDK
+
+18) What are the best practices for optimizing performance in Power BI?
+	-- Use star schema
+	-- Remove unnecessary columns
+	-- Use measures instead of columns
+	-- Avoid complex calculated columns
+	-- Use Import mode when possible
+	-- Enable incremental refresh
+
+19) How can you integrate Power BI with other Microsoft products like Azure and Office 365? 
+	Power BI integrates with:
+		•Azure SQL
+		•Azure Data Factory
+		•SharePoint
+		•Microsoft Teams
+		•Excel
+		•OneDrive
+
+20) Explain the concept of aggregations in Power BI.
+	Aggregations store summarized data to improve performance.
+		Example:
+			•Store monthly sales instead of daily
+			•Queries hit summary table first
+		Used in large datasets.
+
+21) How do you handle error handling and data quality in Power BI? 
+	Remove null values
+	Validate data types
+	Remove duplicates
+	Use conditional columns
+	Create data validation checks
+	Monitor refresh failures
+
+22) What is the purpose of Power BI Embedded and when would you use it?
+		Power BI Embedded is a feature of Microsoft Power BI that allows developers to embed Power BI reports, 
+	dashboards, and analytics inside custom applications or websites.
+		Used when:
+			•Embedding Reports in Web Applications
+			•Customer-Facing Applications
+			•Internal Business Applications
+			•White-Label Analytics
