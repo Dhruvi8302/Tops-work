@@ -40,6 +40,23 @@ df=pd.read_csv("C:\\Users\\ADMIN\\Desktop\\LIBRARIES\\Numpy\\historical_automobi
 # the sales trend per vehicle type for a recession period with a non- recession 
 # period. 
 
-# Q 4: Now you want to compare the sales of different vehicle types 
-# during a recession and a non-recession period 
+# sns.lineplot(
+#     data=df,
+#     x='Year',
+#     y='Automobile_Sales',
+#     hue='Vehicle_Type',
+#     style='Recession',
+#     markers=True,
+    
+# )
+
+# plt.title("Vehicle Sales Trend: Recession vs Non-Recession")
+# plt.xlabel("Year")
+# plt.ylabel("Sales")
+# plt.legend(title="Vehicle Type / Recession")
+
+# plt.show()
+
+
+
 
