@@ -1,0 +1,1001 @@
+SupplierID,SupplierName,SupplierType,City,State,Country,Rating
+SUP0001,Metro Supplies,Distributor,Delhi,Telangana,India,5 
+SUP0002,Prime Traders,Distributor,Chennai,Maharashtra,India,4
+SUP0003,Global Distributors,Wholesaler,Mumbai,Delhi,India, 4
+SUP0004,Prime Distributors,Manufacturer,Chennai,Delhi,India, 4
+SUP0005,Elite Supplies,Wholesaler,Ahmedabad,Telangana,India,5 
+SUP0006,Global Technologies,Distributor,Pune,Maharashtra,India,4
+SUP0007,National Technologies,Manufacturer,Pune,Gujarat,India,3
+SUP0008,National Supplies,Wholesaler,Bangalore,Telangana,India,
+SUP0009,National Technologies,Wholesaler,Hyderabad,Karnataka,India, 4
+SUP0010,National Supplies,Distributor,Pune,Telangana,India,1
+SUP0011,Global Supplies,Manufacturer,Ahmedabad,Delhi,India,1
+SUP0012,Global Traders,Manufacturer,Bangalore,Maharashtra,India,5 
+SUP0013,Metro Distributors,Manufacturer,Ahmedabad,Karnataka,India,5 
+SUP0014,National Supplies,Manufacturer,Ahmedabad,Karnataka,India, 4
+SUP0015,Metro Technologies,Distributor,Chennai,Maharashtra,India,4
+SUP0016,Elite Supplies,Wholesaler,Pune,Telangana,India,5 
+SUP0017,Metro Supplies,Wholesaler,Mumbai,Tamil Nadu,India,3
+SUP0018,Prime Traders,Distributor,Delhi,Gujarat,India,4
+SUP0019,Prime Traders,Manufacturer,Hyderabad,Gujarat,India,
+SUP0020,Elite Supplies,Distributor,Bangalore,Tamil Nadu,India,1
+SUP0021,Metro Traders,Wholesaler,Ahmedabad,Tamil Nadu,India, 4
+SUP0022,Metro Traders,Distributor,Hyderabad,Tamil Nadu,India,1
+SUP0023,National Distributors,Wholesaler,Pune,Gujarat,India,1
+SUP0024,Metro Distributors,Distributor,Pune,Telangana,India,3
+SUP0025,Global Supplies,Wholesaler,Bangalore,Karnataka,India,4
+SUP0026,Elite Distributors,Distributor,Bangalore,Karnataka,India,4
+SUP0027,Elite Traders,Distributor,Bangalore,Maharashtra,India,2
+SUP0028,Elite Distributors,Distributor,Pune,Delhi,India,3
+SUP0029,Prime Distributors,Manufacturer,Hyderabad,Gujarat,India,
+SUP0030,Prime Traders,Distributor,Delhi,Telangana,India, 4
+SUP0031,Global Distributors,Manufacturer,Bangalore,Tamil Nadu,India,4
+SUP0032,National Traders,Distributor,Delhi,Telangana,India,
+SUP0033,Elite Technologies,Wholesaler,Bangalore,Telangana,India,1
+SUP0034,Prime Distributors,Manufacturer,Pune,Maharashtra,India,
+SUP0035,Prime Supplies,Distributor,Ahmedabad,Gujarat,India,
+SUP0036,Prime Traders,Wholesaler,Chennai,Delhi,India,5 
+SUP0037,Metro Supplies,Wholesaler,Ahmedabad,Telangana,India,5 
+SUP0038,Global Traders,Manufacturer,Chennai,Telangana,India,2
+SUP0039,Metro Traders,Distributor,Mumbai,Telangana,India,5 
+SUP0040,Prime Supplies,Manufacturer,Bangalore,Tamil Nadu,India,4
+SUP0041,National Distributors,Distributor,Surat,Gujarat,India, 4
+SUP0042,Prime Supplies,Distributor,Bangalore,Maharashtra,India,5
+SUP0043,Global Distributors,Manufacturer,Pune,Tamil Nadu,India,3
+SUP0044,Metro Supplies,Manufacturer,Surat,Delhi,India,
+SUP0045,Metro Supplies,Manufacturer,Hyderabad,Gujarat,India,4
+SUP0046,Metro Distributors,Wholesaler,Pune,Delhi,India,5
+SUP0047,Metro Distributors,Wholesaler,Surat,Gujarat,India,
+SUP0048,Metro Technologies,Manufacturer,Surat,Karnataka,India,5 
+SUP0049,Elite Distributors,Distributor,Mumbai,Tamil Nadu,India,
+SUP0050,National Distributors,Wholesaler,Hyderabad,Gujarat,India,4
+SUP0051,National Traders,Manufacturer,Bangalore,Maharashtra,India,1
+SUP0052,Metro Technologies,Manufacturer,Delhi,Maharashtra,India,2
+SUP0053,National Traders,Distributor,Delhi,Delhi,India,1
+SUP0054,Global Distributors,Distributor,Hyderabad,Maharashtra,India,
+SUP0055,Prime Traders,Distributor,Ahmedabad,Tamil Nadu,India,1
+SUP0056,Global Distributors,Wholesaler,Hyderabad,Gujarat,India,
+SUP0057,Elite Traders,Distributor,Surat,Gujarat,India,5
+SUP0058,Elite Technologies,Distributor,Hyderabad,Telangana,India,2
+SUP0059,Global Technologies,Wholesaler,Ahmedabad,Tamil Nadu,India,5
+SUP0060,Global Supplies,Distributor,Mumbai,Maharashtra,India, 4
+SUP0061,National Supplies,Manufacturer,Ahmedabad,Maharashtra,India,1
+SUP0062,Elite Traders,Distributor,Ahmedabad,Karnataka,India,
+SUP0063,Prime Traders,Manufacturer,Ahmedabad,Tamil Nadu,India,5 
+SUP0064,Elite Distributors,Wholesaler,Delhi,Telangana,India, 4
+SUP0065,National Distributors,Manufacturer,Hyderabad,Delhi,India,1
+SUP0066,Global Traders,Distributor,Mumbai,Tamil Nadu,India,5 
+SUP0067,Metro Traders,Manufacturer,Pune,Telangana,India,3
+SUP0068,Global Technologies,Distributor,Chennai,Delhi,India,3
+SUP0069,Global Traders,Distributor,Hyderabad,Telangana,India, 4
+SUP0070,Global Traders,Distributor,Mumbai,Telangana,India,2
+SUP0071,National Traders,Wholesaler,Mumbai,Maharashtra,India,5
+SUP0072,Metro Distributors,Wholesaler,Pune,Karnataka,India,2
+SUP0073,Metro Distributors,Wholesaler,Bangalore,Maharashtra,India, 4
+SUP0074,Prime Distributors,Wholesaler,Mumbai,Tamil Nadu,India,4
+SUP0075,Global Distributors,Wholesaler,Delhi,Delhi,India,1
+SUP0076,Global Distributors,Wholesaler,Pune,Delhi,India,2
+SUP0077,Prime Technologies,Distributor,Mumbai,Karnataka,India,
+SUP0078,National Supplies,Wholesaler,Ahmedabad,Gujarat,India, 4
+SUP0079,Global Technologies,Manufacturer,Chennai,Maharashtra,India,3
+SUP0080,Metro Traders,Manufacturer,Chennai,Telangana,India,
+SUP0081,Elite Traders,Wholesaler,Ahmedabad,Maharashtra,India,5
+SUP0082,Global Distributors,Wholesaler,Delhi,Tamil Nadu,India,5
+SUP0083,Prime Traders,Manufacturer,Ahmedabad,Telangana,India,
+SUP0084,Elite Distributors,Manufacturer,Delhi,Karnataka,India,4
+SUP0085,National Distributors,Wholesaler,Surat,Karnataka,India,3
+SUP0086,Elite Supplies,Manufacturer,Surat,Tamil Nadu,India,4
+SUP0087,Metro Traders,Manufacturer,Delhi,Gujarat,India,5
+SUP0088,Metro Traders,Manufacturer,Ahmedabad,Delhi,India,3
+SUP0089,National Distributors,Distributor,Surat,Maharashtra,India,2
+SUP0090,Metro Supplies,Manufacturer,Bangalore,Telangana,India,4
+SUP0091,Prime Technologies,Distributor,Ahmedabad,Delhi,India,5
+SUP0092,Global Technologies,Distributor,Hyderabad,Tamil Nadu,India,5 
+SUP0093,Metro Supplies,Distributor,Hyderabad,Maharashtra,India, 4
+SUP0094,National Distributors,Distributor,Hyderabad,Karnataka,India,1
+SUP0095,National Technologies,Wholesaler,Surat,Tamil Nadu,India,1
+SUP0096,Prime Distributors,Wholesaler,Bangalore,Delhi,India, 4
+SUP0097,Prime Technologies,Distributor,Chennai,Karnataka,India,1
+SUP0098,Prime Technologies,Distributor,Chennai,Delhi,India,5 
+SUP0099,Prime Supplies,Distributor,Ahmedabad,Maharashtra,India,3
+SUP0100,Global Traders,Distributor,Chennai,Maharashtra,India,5 
+SUP0101,Metro Traders,Manufacturer,Surat,Delhi,India, 4
+SUP0102,Prime Traders,Distributor,Ahmedabad,Gujarat,India,5 
+SUP0103,Metro Supplies,Wholesaler,Pune,Gujarat,India,1
+SUP0104,Global Distributors,Manufacturer,Bangalore,Maharashtra,India,3
+SUP0105,Elite Technologies,Distributor,Ahmedabad,Telangana,India,4
+SUP0106,Elite Distributors,Manufacturer,Hyderabad,Delhi,India,3
+SUP0107,Global Supplies,Manufacturer,Hyderabad,Gujarat,India, 4
+SUP0108,Global Distributors,Wholesaler,Mumbai,Tamil Nadu,India,3
+SUP0109,Metro Technologies,Manufacturer,Surat,Telangana,India,4
+SUP0110,Elite Distributors,Manufacturer,Hyderabad,Delhi,India,5
+SUP0111,National Traders,Distributor,Pune,Telangana,India,5
+SUP0112,Metro Traders,Manufacturer,Chennai,Gujarat,India,5
+SUP0113,Global Traders,Wholesaler,Hyderabad,Karnataka,India,2
+SUP0114,Metro Technologies,Distributor,Mumbai,Telangana,India,4
+SUP0115,Elite Technologies,Wholesaler,Pune,Maharashtra,India,5
+SUP0116,National Traders,Wholesaler,Delhi,Delhi,India,2
+SUP0117,Elite Technologies,Manufacturer,Surat,Karnataka,India, 4
+SUP0118,Elite Technologies,Manufacturer,Delhi,Delhi,India, 4
+SUP0119,Metro Technologies,Manufacturer,Hyderabad,Telangana,India,5 
+SUP0120,National Technologies,Wholesaler,Surat,Gujarat,India,2
+SUP0121,National Distributors,Distributor,Chennai,Tamil Nadu,India,4
+SUP0122,National Traders,Distributor,Mumbai,Delhi,India, 4
+SUP0123,Prime Traders,Wholesaler,Pune,Delhi,India,5 
+SUP0124,Global Supplies,Wholesaler,Hyderabad,Karnataka,India, 4
+SUP0125,Elite Distributors,Wholesaler,Pune,Gujarat,India,5 
+SUP0126,Elite Technologies,Distributor,Pune,Karnataka,India,2
+SUP0127,National Distributors,Manufacturer,Pune,Gujarat,India, 4
+SUP0128,Global Distributors,Manufacturer,Bangalore,Delhi,India, 4
+SUP0129,Metro Traders,Manufacturer,Hyderabad,Tamil Nadu,India,5
+SUP0130,Elite Supplies,Wholesaler,Pune,Tamil Nadu,India,2
+SUP0131,Global Traders,Wholesaler,Surat,Gujarat,India,1
+SUP0132,National Technologies,Manufacturer,Bangalore,Delhi,India,5 
+SUP0133,Global Distributors,Wholesaler,Pune,Maharashtra,India,2
+SUP0134,Prime Supplies,Distributor,Mumbai,Karnataka,India,4
+SUP0135,Prime Distributors,Distributor,Ahmedabad,Telangana,India,1
+SUP0136,National Traders,Manufacturer,Mumbai,Telangana,India, 4
+SUP0137,Global Distributors,Manufacturer,Bangalore,Delhi,India,5 
+SUP0138,Metro Supplies,Distributor,Chennai,Delhi,India,5 
+SUP0139,Elite Supplies,Manufacturer,Surat,Karnataka,India,4
+SUP0140,Global Distributors,Wholesaler,Hyderabad,Tamil Nadu,India,5 
+SUP0141,Metro Traders,Wholesaler,Delhi,Maharashtra,India,5
+SUP0142,Elite Distributors,Manufacturer,Hyderabad,Tamil Nadu,India, 4
+SUP0143,Prime Technologies,Manufacturer,Mumbai,Gujarat,India,
+SUP0144,Global Supplies,Distributor,Ahmedabad,Maharashtra,India,5
+SUP0145,Global Traders,Manufacturer,Ahmedabad,Karnataka,India,4
+SUP0146,Global Supplies,Wholesaler,Bangalore,Telangana,India, 4
+SUP0147,Prime Traders,Manufacturer,Pune,Delhi,India,5
+SUP0148,Global Technologies,Manufacturer,Hyderabad,Telangana,India,5
+SUP0149,National Distributors,Wholesaler,Pune,Telangana,India,5 
+SUP0150,Prime Technologies,Wholesaler,Ahmedabad,Maharashtra,India,3
+SUP0151,Elite Supplies,Manufacturer,Ahmedabad,Telangana,India,2
+SUP0152,Elite Supplies,Manufacturer,Ahmedabad,Tamil Nadu,India,3
+SUP0153,Metro Distributors,Distributor,Hyderabad,Karnataka,India, 4
+SUP0154,Prime Traders,Distributor,Pune,Karnataka,India,5 
+SUP0155,Global Supplies,Manufacturer,Surat,Telangana,India,5
+SUP0156,National Distributors,Wholesaler,Hyderabad,Delhi,India,4
+SUP0157,Metro Distributors,Distributor,Surat,Delhi,India,5
+SUP0158,National Technologies,Wholesaler,Chennai,Maharashtra,India,5
+SUP0159,National Technologies,Wholesaler,Bangalore,Tamil Nadu,India,2
+SUP0160,Elite Traders,Distributor,Hyderabad,Telangana,India,3
+SUP0161,Elite Technologies,Wholesaler,Ahmedabad,Karnataka,India,2
+SUP0162,Metro Distributors,Manufacturer,Delhi,Maharashtra,India,5
+SUP0163,National Supplies,Manufacturer,Ahmedabad,Gujarat,India,1
+SUP0164,National Supplies,Wholesaler,Ahmedabad,Karnataka,India, 4
+SUP0165,National Technologies,Wholesaler,Bangalore,Telangana,India,5 
+SUP0166,National Distributors,Wholesaler,Surat,Telangana,India,2
+SUP0167,Elite Distributors,Manufacturer,Ahmedabad,Delhi,India,5 
+SUP0168,Elite Technologies,Wholesaler,Bangalore,Karnataka,India,4
+SUP0169,Prime Distributors,Wholesaler,Chennai,Maharashtra,India,5 
+SUP0170,Prime Distributors,Wholesaler,Chennai,Karnataka,India,1
+SUP0171,Global Supplies,Wholesaler,Mumbai,Gujarat,India,2
+SUP0172,Prime Supplies,Distributor,Chennai,Karnataka,India, 4
+SUP0173,National Technologies,Wholesaler,Surat,Karnataka,India,1
+SUP0174,Prime Technologies,Manufacturer,Hyderabad,Gujarat,India,2
+SUP0175,Metro Supplies,Wholesaler,Chennai,Gujarat,India, 4
+SUP0176,Metro Supplies,Wholesaler,Delhi,Telangana,India,4
+SUP0177,National Technologies,Wholesaler,Pune,Gujarat,India,
+SUP0178,Metro Traders,Manufacturer,Delhi,Tamil Nadu,India, 4
+SUP0179,Metro Technologies,Wholesaler,Mumbai,Karnataka,India,3
+SUP0180,Prime Traders,Distributor,Surat,Maharashtra,India,4
+SUP0181,Metro Technologies,Manufacturer,Surat,Karnataka,India,3
+SUP0182,Prime Traders,Manufacturer,Pune,Tamil Nadu,India,2
+SUP0183,Elite Technologies,Wholesaler,Pune,Maharashtra,India,4
+SUP0184,Prime Supplies,Manufacturer,Hyderabad,Gujarat,India, 4
+SUP0185,Prime Technologies,Distributor,Chennai,Karnataka,India,
+SUP0186,Global Technologies,Manufacturer,Surat,Karnataka,India,5 
+SUP0187,Elite Technologies,Distributor,Mumbai,Maharashtra,India,5
+SUP0188,Global Supplies,Wholesaler,Mumbai,Delhi,India, 4
+SUP0189,Prime Technologies,Wholesaler,Surat,Delhi,India,4
+SUP0190,National Technologies,Distributor,Pune,Gujarat,India,3
+SUP0191,Metro Technologies,Wholesaler,Hyderabad,Tamil Nadu,India,3
+SUP0192,National Technologies,Manufacturer,Delhi,Maharashtra,India,5
+SUP0193,Prime Technologies,Manufacturer,Delhi,Delhi,India,2
+SUP0194,Prime Distributors,Wholesaler,Mumbai,Tamil Nadu,India,
+SUP0195,Elite Supplies,Distributor,Bangalore,Maharashtra,India,3
+SUP0196,Global Traders,Wholesaler,Delhi,Maharashtra,India,5 
+SUP0197,National Distributors,Manufacturer,Surat,Maharashtra,India,1
+SUP0198,Metro Distributors,Manufacturer,Chennai,Delhi,India,1
+SUP0199,Global Traders,Distributor,Mumbai,Delhi,India,4
+SUP0200,Prime Distributors,Wholesaler,Mumbai,Tamil Nadu,India, 4
+SUP0201,Elite Traders,Manufacturer,Mumbai,Telangana,India,
+SUP0202,Elite Supplies,Distributor,Chennai,Telangana,India,4
+SUP0203,Elite Traders,Wholesaler,Pune,Gujarat,India,5
+SUP0204,Elite Distributors,Distributor,Hyderabad,Tamil Nadu,India, 4
+SUP0205,Elite Distributors,Manufacturer,Surat,Delhi,India,
+SUP0206,National Distributors,Distributor,Chennai,Delhi,India, 4
+SUP0207,National Supplies,Manufacturer,Pune,Karnataka,India,4
+SUP0208,Prime Technologies,Manufacturer,Delhi,Tamil Nadu,India, 4
+SUP0209,National Traders,Wholesaler,Ahmedabad,Karnataka,India,3
+SUP0210,National Distributors,Distributor,Hyderabad,Gujarat,India,1
+SUP0211,Elite Traders,Distributor,Surat,Tamil Nadu,India,4
+SUP0212,National Supplies,Manufacturer,Pune,Maharashtra,India,
+SUP0213,Prime Technologies,Wholesaler,Ahmedabad,Delhi,India,
+SUP0214,Elite Technologies,Wholesaler,Delhi,Gujarat,India, 4
+SUP0215,Metro Supplies,Distributor,Delhi,Maharashtra,India,3
+SUP0216,National Traders,Manufacturer,Ahmedabad,Karnataka,India,3
+SUP0217,Metro Distributors,Wholesaler,Chennai,Tamil Nadu,India,1
+SUP0218,Metro Technologies,Manufacturer,Delhi,Telangana,India,
+SUP0219,Global Technologies,Distributor,Surat,Karnataka,India,2
+SUP0220,Elite Traders,Wholesaler,Pune,Tamil Nadu,India, 4
+SUP0221,National Supplies,Distributor,Hyderabad,Delhi,India,4
+SUP0222,Global Supplies,Manufacturer,Hyderabad,Karnataka,India,3
+SUP0223,Global Distributors,Wholesaler,Hyderabad,Telangana,India,3
+SUP0224,Metro Technologies,Manufacturer,Chennai,Tamil Nadu,India, 4
+SUP0225,Global Traders,Wholesaler,Delhi,Telangana,India,4
+SUP0226,Global Traders,Distributor,Pune,Telangana,India,4
+SUP0227,Metro Distributors,Wholesaler,Pune,Tamil Nadu,India,1
+SUP0228,Prime Technologies,Manufacturer,Ahmedabad,Tamil Nadu,India,3
+SUP0229,Metro Distributors,Manufacturer,Bangalore,Delhi,India,5 
+SUP0230,Global Distributors,Distributor,Ahmedabad,Tamil Nadu,India,
+SUP0231,National Distributors,Manufacturer,Pune,Telangana,India,1
+SUP0232,Metro Technologies,Wholesaler,Chennai,Karnataka,India, 4
+SUP0233,National Technologies,Distributor,Pune,Delhi,India,
+SUP0234,Metro Traders,Wholesaler,Chennai,Tamil Nadu,India, 4
+SUP0235,Global Distributors,Wholesaler,Chennai,Karnataka,India,5 
+SUP0236,Metro Traders,Wholesaler,Chennai,Telangana,India, 4
+SUP0237,National Traders,Manufacturer,Pune,Gujarat,India, 4
+SUP0238,Prime Distributors,Manufacturer,Delhi,Telangana,India,4
+SUP0239,Global Traders,Manufacturer,Mumbai,Maharashtra,India, 4
+SUP0240,Elite Technologies,Manufacturer,Bangalore,Tamil Nadu,India,3
+SUP0241,Global Traders,Wholesaler,Delhi,Tamil Nadu,India,1
+SUP0242,National Distributors,Distributor,Bangalore,Telangana,India, 4
+SUP0243,Global Distributors,Manufacturer,Hyderabad,Karnataka,India,1
+SUP0244,Global Traders,Manufacturer,Delhi,Delhi,India,1
+SUP0245,Global Technologies,Distributor,Ahmedabad,Gujarat,India,
+SUP0246,Global Technologies,Distributor,Mumbai,Maharashtra,India,2
+SUP0247,Metro Supplies,Manufacturer,Hyderabad,Maharashtra,India,2
+SUP0248,Elite Technologies,Manufacturer,Mumbai,Delhi,India, 4
+SUP0249,Metro Distributors,Wholesaler,Pune,Delhi,India, 4
+SUP0250,Prime Distributors,Wholesaler,Bangalore,Gujarat,India,2
+SUP0251,National Distributors,Distributor,Ahmedabad,Tamil Nadu,India,5 
+SUP0252,Global Distributors,Manufacturer,Ahmedabad,Karnataka,India,
+SUP0253,National Technologies,Distributor,Delhi,Maharashtra,India,5 
+SUP0254,National Traders,Manufacturer,Surat,Telangana,India,5
+SUP0255,Prime Traders,Manufacturer,Pune,Maharashtra,India, 4
+SUP0256,National Supplies,Distributor,Surat,Gujarat,India,5
+SUP0257,Metro Traders,Manufacturer,Delhi,Karnataka,India,5
+SUP0258,National Distributors,Wholesaler,Chennai,Tamil Nadu,India,5 
+SUP0259,Prime Supplies,Manufacturer,Chennai,Gujarat,India,5 
+SUP0260,Metro Distributors,Manufacturer,Mumbai,Gujarat,India,1
+SUP0261,Prime Technologies,Wholesaler,Ahmedabad,Karnataka,India,1
+SUP0262,Prime Technologies,Wholesaler,Mumbai,Gujarat,India, 4
+SUP0263,Global Supplies,Distributor,Hyderabad,Delhi,India,5 
+SUP0264,Prime Distributors,Manufacturer,Hyderabad,Gujarat,India,2
+SUP0265,Prime Traders,Manufacturer,Surat,Telangana,India,5 
+SUP0266,Global Distributors,Wholesaler,Pune,Tamil Nadu,India,
+SUP0267,National Supplies,Wholesaler,Bangalore,Tamil Nadu,India,2
+SUP0268,National Distributors,Distributor,Pune,Telangana,India,3
+SUP0269,National Technologies,Wholesaler,Mumbai,Gujarat,India,5 
+SUP0270,Prime Supplies,Distributor,Ahmedabad,Gujarat,India,5 
+SUP0271,National Distributors,Manufacturer,Mumbai,Tamil Nadu,India,
+SUP0272,National Technologies,Distributor,Pune,Maharashtra,India,2
+SUP0273,Global Distributors,Distributor,Mumbai,Maharashtra,India,
+SUP0274,Global Supplies,Distributor,Chennai,Telangana,India,4
+SUP0275,Global Supplies,Wholesaler,Surat,Maharashtra,India,5 
+SUP0276,National Distributors,Manufacturer,Surat,Karnataka,India,1
+SUP0277,Prime Technologies,Distributor,Hyderabad,Delhi,India,1
+SUP0278,Global Technologies,Manufacturer,Surat,Karnataka,India,4
+SUP0279,Prime Technologies,Manufacturer,Delhi,Maharashtra,India,4
+SUP0280,Prime Distributors,Distributor,Hyderabad,Tamil Nadu,India,5 
+SUP0281,National Supplies,Distributor,Delhi,Telangana,India,3
+SUP0282,Elite Supplies,Manufacturer,Delhi,Karnataka,India,2
+SUP0283,Prime Traders,Manufacturer,Pune,Telangana,India,1
+SUP0284,Prime Distributors,Manufacturer,Mumbai,Gujarat,India,
+SUP0285,Metro Distributors,Wholesaler,Chennai,Telangana,India,1
+SUP0286,Metro Technologies,Manufacturer,Mumbai,Gujarat,India,1
+SUP0287,National Technologies,Wholesaler,Surat,Tamil Nadu,India,5 
+SUP0288,Elite Supplies,Distributor,Mumbai,Tamil Nadu,India,
+SUP0289,Global Supplies,Wholesaler,Mumbai,Delhi,India,2
+SUP0290,Metro Supplies,Distributor,Mumbai,Maharashtra,India,5 
+SUP0291,Metro Traders,Distributor,Surat,Gujarat,India,5
+SUP0292,Elite Traders,Wholesaler,Chennai,Maharashtra,India,4
+SUP0293,Elite Traders,Distributor,Chennai,Delhi,India,2
+SUP0294,National Traders,Manufacturer,Ahmedabad,Maharashtra,India,5
+SUP0295,Prime Technologies,Wholesaler,Chennai,Telangana,India,4
+SUP0296,Prime Technologies,Manufacturer,Pune,Gujarat,India,
+SUP0297,Global Distributors,Distributor,Delhi,Karnataka,India,1
+SUP0298,National Supplies,Wholesaler,Chennai,Delhi,India,2
+SUP0299,Prime Technologies,Distributor,Delhi,Delhi,India, 4
+SUP0300,Global Supplies,Manufacturer,Ahmedabad,Maharashtra,India,5
+SUP0301,Elite Traders,Distributor,Hyderabad,Telangana,India,5 
+SUP0302,Metro Distributors,Distributor,Pune,Tamil Nadu,India,4
+SUP0303,National Distributors,Distributor,Surat,Telangana,India,1
+SUP0304,Prime Distributors,Manufacturer,Pune,Tamil Nadu,India,5
+SUP0305,Prime Supplies,Wholesaler,Delhi,Gujarat,India,2
+SUP0306,Elite Traders,Distributor,Chennai,Telangana,India,4
+SUP0307,Prime Traders,Wholesaler,Chennai,Karnataka,India,1
+SUP0308,Prime Distributors,Distributor,Ahmedabad,Delhi,India,4
+SUP0309,Prime Distributors,Wholesaler,Delhi,Telangana,India,4
+SUP0310,Global Technologies,Manufacturer,Hyderabad,Maharashtra,India,
+SUP0311,Global Supplies,Wholesaler,Mumbai,Gujarat,India,1
+SUP0312,Global Supplies,Manufacturer,Chennai,Gujarat,India,5 
+SUP0313,Elite Technologies,Wholesaler,Pune,Gujarat,India,
+SUP0314,Prime Technologies,Wholesaler,Ahmedabad,Delhi,India,5 
+SUP0315,Metro Traders,Wholesaler,Hyderabad,Maharashtra,India,2
+SUP0316,Prime Traders,Wholesaler,Chennai,Karnataka,India,3
+SUP0317,Global Traders,Wholesaler,Ahmedabad,Karnataka,India,3
+SUP0318,Metro Technologies,Manufacturer,Ahmedabad,Maharashtra,India,3
+SUP0319,Elite Technologies,Manufacturer,Hyderabad,Telangana,India,5 
+SUP0320,Prime Supplies,Manufacturer,Pune,Telangana,India,2
+SUP0321,National Supplies,Wholesaler,Chennai,Delhi,India,1
+SUP0322,Global Distributors,Wholesaler,Hyderabad,Telangana,India,
+SUP0323,Metro Traders,Wholesaler,Pune,Maharashtra,India,2
+SUP0324,Elite Traders,Wholesaler,Pune,Tamil Nadu,India,3
+SUP0325,Metro Technologies,Wholesaler,Ahmedabad,Tamil Nadu,India,
+SUP0326,National Technologies,Distributor,Pune,Tamil Nadu,India,5 
+SUP0327,National Supplies,Distributor,Delhi,Tamil Nadu,India,5 
+SUP0328,Global Traders,Manufacturer,Hyderabad,Gujarat,India,4
+SUP0329,Elite Distributors,Manufacturer,Pune,Karnataka,India,5
+SUP0330,Metro Supplies,Wholesaler,Hyderabad,Telangana,India,3
+SUP0331,Global Distributors,Distributor,Surat,Gujarat,India,5 
+SUP0332,Global Supplies,Distributor,Bangalore,Tamil Nadu,India, 4
+SUP0333,Elite Supplies,Distributor,Surat,Maharashtra,India,4
+SUP0334,Prime Technologies,Manufacturer,Delhi,Maharashtra,India, 4
+SUP0335,Global Distributors,Wholesaler,Pune,Telangana,India,4
+SUP0336,Metro Traders,Wholesaler,Pune,Tamil Nadu,India,2
+SUP0337,Prime Technologies,Distributor,Pune,Telangana,India,1
+SUP0338,National Supplies,Wholesaler,Hyderabad,Karnataka,India, 4
+SUP0339,Prime Technologies,Manufacturer,Pune,Karnataka,India,5
+SUP0340,Elite Technologies,Wholesaler,Delhi,Delhi,India,1
+SUP0341,National Supplies,Manufacturer,Ahmedabad,Tamil Nadu,India,3
+SUP0342,Global Supplies,Distributor,Chennai,Maharashtra,India,2
+SUP0343,Metro Traders,Manufacturer,Chennai,Delhi,India, 4
+SUP0344,Elite Distributors,Distributor,Mumbai,Telangana,India, 4
+SUP0345,Elite Supplies,Wholesaler,Pune,Karnataka,India,4
+SUP0346,National Distributors,Wholesaler,Hyderabad,Telangana,India,5 
+SUP0347,Elite Supplies,Wholesaler,Chennai,Delhi,India, 4
+SUP0348,Elite Technologies,Manufacturer,Ahmedabad,Tamil Nadu,India,5
+SUP0349,Global Supplies,Manufacturer,Ahmedabad,Delhi,India,2
+SUP0350,Global Traders,Distributor,Delhi,Karnataka,India,3
+SUP0351,Metro Traders,Wholesaler,Surat,Telangana,India,4
+SUP0352,Elite Supplies,Distributor,Hyderabad,Gujarat,India,3
+SUP0353,Metro Traders,Manufacturer,Hyderabad,Delhi,India,1
+SUP0354,Prime Supplies,Distributor,Surat,Maharashtra,India,2
+SUP0355,Prime Traders,Distributor,Mumbai,Gujarat,India, 4
+SUP0356,Metro Supplies,Manufacturer,Chennai,Tamil Nadu,India,2
+SUP0357,Global Distributors,Manufacturer,Hyderabad,Maharashtra,India,5
+SUP0358,Global Traders,Distributor,Bangalore,Maharashtra,India,4
+SUP0359,Prime Technologies,Wholesaler,Surat,Telangana,India,2
+SUP0360,Metro Technologies,Wholesaler,Bangalore,Maharashtra,India,3
+SUP0361,Global Distributors,Manufacturer,Mumbai,Tamil Nadu,India,5
+SUP0362,Metro Traders,Wholesaler,Hyderabad,Telangana,India,4
+SUP0363,Elite Supplies,Wholesaler,Pune,Telangana,India,4
+SUP0364,Elite Traders,Manufacturer,Delhi,Telangana,India,5
+SUP0365,Metro Distributors,Distributor,Chennai,Delhi,India,5
+SUP0366,National Technologies,Distributor,Hyderabad,Tamil Nadu,India,5 
+SUP0367,Elite Supplies,Manufacturer,Pune,Telangana,India, 4
+SUP0368,Elite Traders,Wholesaler,Pune,Karnataka,India, 4
+SUP0369,Global Technologies,Distributor,Surat,Gujarat,India,1
+SUP0370,Metro Supplies,Wholesaler,Pune,Tamil Nadu,India,1
+SUP0371,Prime Supplies,Distributor,Mumbai,Maharashtra,India,2
+SUP0372,Elite Supplies,Wholesaler,Chennai,Karnataka,India,
+SUP0373,Prime Traders,Wholesaler,Mumbai,Telangana,India,2
+SUP0374,Prime Technologies,Manufacturer,Bangalore,Telangana,India,1
+SUP0375,Elite Distributors,Wholesaler,Chennai,Maharashtra,India,4
+SUP0376,National Traders,Wholesaler,Bangalore,Delhi,India,5
+SUP0377,Metro Distributors,Manufacturer,Chennai,Telangana,India,5
+SUP0378,Metro Distributors,Wholesaler,Hyderabad,Gujarat,India,1
+SUP0379,Prime Traders,Manufacturer,Delhi,Telangana,India,3
+SUP0380,Global Traders,Wholesaler,Ahmedabad,Telangana,India,5
+SUP0381,Global Traders,Wholesaler,Pune,Karnataka,India,1
+SUP0382,Prime Traders,Wholesaler,Surat,Tamil Nadu,India,5
+SUP0383,National Distributors,Manufacturer,Hyderabad,Maharashtra,India,1
+SUP0384,Global Technologies,Manufacturer,Bangalore,Telangana,India,5 
+SUP0385,Metro Supplies,Distributor,Surat,Tamil Nadu,India,5
+SUP0386,National Distributors,Manufacturer,Delhi,Karnataka,India,5
+SUP0387,National Technologies,Wholesaler,Pune,Karnataka,India,5
+SUP0388,Prime Technologies,Wholesaler,Mumbai,Maharashtra,India, 4
+SUP0389,Global Supplies,Wholesaler,Hyderabad,Maharashtra,India,
+SUP0390,Metro Technologies,Manufacturer,Pune,Tamil Nadu,India,3
+SUP0391,Global Distributors,Manufacturer,Delhi,Delhi,India,
+SUP0392,National Traders,Wholesaler,Chennai,Tamil Nadu,India,2
+SUP0393,Global Distributors,Wholesaler,Pune,Maharashtra,India,1
+SUP0394,Metro Technologies,Distributor,Mumbai,Karnataka,India,4
+SUP0395,Metro Supplies,Wholesaler,Ahmedabad,Maharashtra,India,3
+SUP0396,National Traders,Wholesaler,Chennai,Karnataka,India,3
+SUP0397,Prime Distributors,Manufacturer,Bangalore,Gujarat,India,3
+SUP0398,National Distributors,Wholesaler,Mumbai,Delhi,India,4
+SUP0399,Elite Technologies,Manufacturer,Delhi,Maharashtra,India,2
+SUP0400,Elite Technologies,Distributor,Surat,Tamil Nadu,India, 4
+SUP0401,Prime Distributors,Manufacturer,Pune,Maharashtra,India,5
+SUP0402,Global Distributors,Wholesaler,Bangalore,Telangana,India,2
+SUP0403,National Distributors,Distributor,Delhi,Tamil Nadu,India, 4
+SUP0404,National Supplies,Distributor,Hyderabad,Telangana,India,2
+SUP0405,Prime Traders,Manufacturer,Surat,Maharashtra,India,5 
+SUP0406,Elite Distributors,Wholesaler,Mumbai,Karnataka,India, 4
+SUP0407,Global Traders,Distributor,Chennai,Gujarat,India,1
+SUP0408,Global Supplies,Manufacturer,Surat,Maharashtra,India,4
+SUP0409,National Traders,Distributor,Surat,Karnataka,India, 4
+SUP0410,National Distributors,Wholesaler,Delhi,Karnataka,India,5
+SUP0411,National Distributors,Manufacturer,Delhi,Maharashtra,India,5 
+SUP0412,Elite Distributors,Distributor,Ahmedabad,Telangana,India,1
+SUP0413,Prime Technologies,Wholesaler,Bangalore,Tamil Nadu,India, 4
+SUP0414,Prime Traders,Wholesaler,Surat,Delhi,India, 4
+SUP0415,Elite Supplies,Manufacturer,Bangalore,Tamil Nadu,India,1
+SUP0416,Metro Supplies,Wholesaler,Delhi,Telangana,India,3
+SUP0417,Elite Traders,Wholesaler,Surat,Gujarat,India,
+SUP0418,Metro Distributors,Wholesaler,Delhi,Karnataka,India,
+SUP0419,Global Supplies,Distributor,Bangalore,Telangana,India,2
+SUP0420,Elite Traders,Wholesaler,Surat,Maharashtra,India,5
+SUP0421,Prime Distributors,Wholesaler,Chennai,Gujarat,India,5 
+SUP0422,Metro Supplies,Distributor,Mumbai,Gujarat,India,5 
+SUP0423,Metro Supplies,Manufacturer,Ahmedabad,Telangana,India, 4
+SUP0424,Metro Technologies,Manufacturer,Pune,Tamil Nadu,India, 4
+SUP0425,Elite Distributors,Manufacturer,Mumbai,Tamil Nadu,India,1
+SUP0426,Global Distributors,Distributor,Ahmedabad,Telangana,India,5 
+SUP0427,Elite Supplies,Manufacturer,Delhi,Tamil Nadu,India, 4
+SUP0428,Metro Supplies,Distributor,Bangalore,Karnataka,India,
+SUP0429,Elite Supplies,Wholesaler,Ahmedabad,Karnataka,India,1
+SUP0430,Metro Traders,Wholesaler,Ahmedabad,Maharashtra,India,4
+SUP0431,Global Traders,Manufacturer,Chennai,Karnataka,India,
+SUP0432,Metro Traders,Wholesaler,Hyderabad,Telangana,India,4
+SUP0433,Metro Supplies,Manufacturer,Chennai,Karnataka,India,
+SUP0434,Elite Distributors,Distributor,Surat,Telangana,India,5 
+SUP0435,National Technologies,Distributor,Delhi,Maharashtra,India,5 
+SUP0436,Prime Traders,Manufacturer,Delhi,Maharashtra,India, 4
+SUP0437,Prime Distributors,Wholesaler,Surat,Maharashtra,India,
+SUP0438,Prime Distributors,Wholesaler,Chennai,Telangana,India, 4
+SUP0439,Global Supplies,Distributor,Bangalore,Delhi,India,2
+SUP0440,National Distributors,Distributor,Hyderabad,Gujarat,India, 4
+SUP0441,Elite Technologies,Manufacturer,Bangalore,Karnataka,India,1
+SUP0442,Metro Technologies,Wholesaler,Delhi,Maharashtra,India,5
+SUP0443,Prime Traders,Wholesaler,Pune,Gujarat,India,4
+SUP0444,Metro Traders,Distributor,Surat,Telangana,India,1
+SUP0445,National Technologies,Manufacturer,Chennai,Tamil Nadu,India,5 
+SUP0446,Prime Traders,Manufacturer,Surat,Maharashtra,India,3
+SUP0447,National Traders,Wholesaler,Surat,Karnataka,India,5
+SUP0448,Prime Traders,Distributor,Mumbai,Delhi,India,2
+SUP0449,Global Traders,Manufacturer,Chennai,Maharashtra,India,5 
+SUP0450,Elite Supplies,Distributor,Surat,Gujarat,India,2
+SUP0451,Prime Distributors,Wholesaler,Chennai,Tamil Nadu,India,4
+SUP0452,Global Distributors,Manufacturer,Delhi,Karnataka,India,3
+SUP0453,Prime Supplies,Wholesaler,Bangalore,Tamil Nadu,India,1
+SUP0454,National Technologies,Wholesaler,Ahmedabad,Gujarat,India, 4
+SUP0455,Metro Technologies,Wholesaler,Delhi,Karnataka,India,1
+SUP0456,Elite Traders,Distributor,Delhi,Maharashtra,India,
+SUP0457,Metro Distributors,Manufacturer,Delhi,Delhi,India,
+SUP0458,Prime Distributors,Wholesaler,Surat,Tamil Nadu,India, 4
+SUP0459,Metro Distributors,Distributor,Mumbai,Karnataka,India,5 
+SUP0460,Global Traders,Distributor,Pune,Tamil Nadu,India,5
+SUP0461,Metro Supplies,Wholesaler,Delhi,Karnataka,India,1
+SUP0462,Elite Traders,Wholesaler,Chennai,Tamil Nadu,India,
+SUP0463,Prime Technologies,Wholesaler,Ahmedabad,Tamil Nadu,India,1
+SUP0464,National Technologies,Wholesaler,Delhi,Maharashtra,India,3
+SUP0465,Prime Distributors,Distributor,Pune,Gujarat,India,2
+SUP0466,National Traders,Manufacturer,Pune,Telangana,India,
+SUP0467,Elite Distributors,Manufacturer,Ahmedabad,Karnataka,India,5 
+SUP0468,Prime Technologies,Manufacturer,Chennai,Maharashtra,India,1
+SUP0469,Global Technologies,Distributor,Delhi,Tamil Nadu,India,5 
+SUP0470,Global Supplies,Distributor,Mumbai,Maharashtra,India,5
+SUP0471,Metro Distributors,Distributor,Mumbai,Maharashtra,India,5
+SUP0472,National Distributors,Manufacturer,Chennai,Tamil Nadu,India,
+SUP0473,Prime Technologies,Wholesaler,Surat,Delhi,India, 4
+SUP0474,Global Technologies,Distributor,Surat,Maharashtra,India,5
+SUP0475,National Distributors,Wholesaler,Bangalore,Gujarat,India,5 
+SUP0476,Elite Supplies,Wholesaler,Surat,Delhi,India,1
+SUP0477,Elite Technologies,Manufacturer,Pune,Delhi,India,4
+SUP0478,Global Traders,Distributor,Pune,Maharashtra,India,4
+SUP0479,National Supplies,Distributor,Pune,Maharashtra,India, 4
+SUP0480,Global Distributors,Wholesaler,Bangalore,Karnataka,India,5
+SUP0481,National Supplies,Distributor,Ahmedabad,Karnataka,India,
+SUP0482,Global Supplies,Wholesaler,Chennai,Karnataka,India,1
+SUP0483,Elite Supplies,Wholesaler,Ahmedabad,Karnataka,India,5
+SUP0484,Metro Traders,Manufacturer,Hyderabad,Tamil Nadu,India, 4
+SUP0485,Elite Traders,Manufacturer,Chennai,Tamil Nadu,India, 4
+SUP0486,Elite Technologies,Wholesaler,Chennai,Delhi,India,3
+SUP0487,Prime Distributors,Wholesaler,Pune,Maharashtra,India,5
+SUP0488,Elite Technologies,Manufacturer,Hyderabad,Maharashtra,India,1
+SUP0489,Metro Distributors,Wholesaler,Pune,Karnataka,India,4
+SUP0490,Global Supplies,Distributor,Surat,Gujarat,India,5 
+SUP0491,Metro Supplies,Manufacturer,Pune,Maharashtra,India,
+SUP0492,Prime Traders,Distributor,Bangalore,Telangana,India,2
+SUP0493,Metro Technologies,Distributor,Mumbai,Maharashtra,India,5 
+SUP0494,Metro Traders,Manufacturer,Delhi,Gujarat,India,
+SUP0495,Elite Supplies,Wholesaler,Pune,Gujarat,India,
+SUP0496,Global Supplies,Manufacturer,Surat,Gujarat,India,3
+SUP0497,National Distributors,Manufacturer,Mumbai,Telangana,India,2
+SUP0498,Prime Distributors,Wholesaler,Hyderabad,Karnataka,India, 4
+SUP0499,Metro Traders,Wholesaler,Bangalore,Maharashtra,India,1
+SUP0500,Metro Technologies,Wholesaler,Bangalore,Tamil Nadu,India,1
+SUP0501,Elite Distributors,Distributor,Hyderabad,Karnataka,India,4
+SUP0502,Elite Traders,Distributor,Delhi,Gujarat,India,3
+SUP0503,Elite Distributors,Distributor,Bangalore,Tamil Nadu,India,5 
+SUP0504,Metro Distributors,Manufacturer,Chennai,Maharashtra,India,
+SUP0505,Elite Supplies,Manufacturer,Chennai,Maharashtra,India,4
+SUP0506,Elite Supplies,Wholesaler,Pune,Maharashtra,India,1
+SUP0507,Prime Distributors,Manufacturer,Mumbai,Tamil Nadu,India,1
+SUP0508,Elite Supplies,Wholesaler,Chennai,Maharashtra,India,3
+SUP0509,Prime Distributors,Manufacturer,Ahmedabad,Karnataka,India,1
+SUP0510,Metro Technologies,Manufacturer,Pune,Maharashtra,India,2
+SUP0511,Elite Supplies,Manufacturer,Chennai,Karnataka,India,1
+SUP0512,Prime Supplies,Wholesaler,Hyderabad,Maharashtra,India,
+SUP0513,Metro Supplies,Wholesaler,Surat,Karnataka,India,1
+SUP0514,National Supplies,Manufacturer,Ahmedabad,Karnataka,India,
+SUP0515,Prime Supplies,Wholesaler,Surat,Maharashtra,India, 4
+SUP0516,National Supplies,Distributor,Chennai,Delhi,India,5 
+SUP0517,Metro Technologies,Wholesaler,Hyderabad,Karnataka,India,2
+SUP0518,Global Traders,Wholesaler,Pune,Telangana,India,5
+SUP0519,National Technologies,Wholesaler,Hyderabad,Karnataka,India,5
+SUP0520,Elite Supplies,Manufacturer,Ahmedabad,Gujarat,India,
+SUP0521,Elite Distributors,Manufacturer,Hyderabad,Maharashtra,India,3
+SUP0522,National Technologies,Wholesaler,Delhi,Delhi,India,3
+SUP0523,National Traders,Manufacturer,Hyderabad,Gujarat,India, 4
+SUP0524,Prime Supplies,Distributor,Delhi,Tamil Nadu,India,1
+SUP0525,Global Supplies,Manufacturer,Pune,Delhi,India,2
+SUP0526,Global Traders,Wholesaler,Chennai,Tamil Nadu,India, 4
+SUP0527,Global Supplies,Manufacturer,Hyderabad,Tamil Nadu,India, 4
+SUP0528,Global Distributors,Wholesaler,Mumbai,Delhi,India,1
+SUP0529,Metro Traders,Manufacturer,Bangalore,Maharashtra,India, 4
+SUP0530,Elite Traders,Distributor,Bangalore,Telangana,India,4
+SUP0531,National Technologies,Distributor,Surat,Delhi,India,
+SUP0532,Prime Traders,Wholesaler,Chennai,Tamil Nadu,India,5
+SUP0533,Elite Distributors,Distributor,Hyderabad,Delhi,India,2
+SUP0534,Prime Supplies,Distributor,Ahmedabad,Tamil Nadu,India,5
+SUP0535,Metro Technologies,Manufacturer,Ahmedabad,Karnataka,India,4
+SUP0536,Global Distributors,Wholesaler,Hyderabad,Gujarat,India,1
+SUP0537,Prime Supplies,Wholesaler,Bangalore,Telangana,India,5
+SUP0538,Prime Distributors,Manufacturer,Surat,Karnataka,India, 4
+SUP0539,Elite Technologies,Distributor,Hyderabad,Maharashtra,India,1
+SUP0540,Prime Technologies,Wholesaler,Hyderabad,Gujarat,India,5 
+SUP0541,National Technologies,Distributor,Chennai,Delhi,India,4
+SUP0542,Elite Supplies,Manufacturer,Mumbai,Telangana,India, 4
+SUP0543,Elite Supplies,Distributor,Delhi,Karnataka,India, 4
+SUP0544,Global Technologies,Manufacturer,Delhi,Maharashtra,India,5 
+SUP0545,Elite Technologies,Wholesaler,Surat,Telangana,India, 4
+SUP0546,National Distributors,Manufacturer,Mumbai,Karnataka,India,
+SUP0547,Elite Distributors,Wholesaler,Delhi,Telangana,India,5
+SUP0548,Prime Traders,Wholesaler,Chennai,Telangana,India, 4
+SUP0549,Global Supplies,Distributor,Delhi,Tamil Nadu,India,4
+SUP0550,Prime Technologies,Distributor,Pune,Delhi,India,1
+SUP0551,Elite Distributors,Distributor,Delhi,Telangana,India,5
+SUP0552,Metro Traders,Wholesaler,Delhi,Maharashtra,India,
+SUP0553,National Technologies,Wholesaler,Delhi,Telangana,India,1
+SUP0554,National Traders,Distributor,Delhi,Maharashtra,India,1
+SUP0555,Metro Technologies,Distributor,Pune,Tamil Nadu,India,5 
+SUP0556,Prime Supplies,Manufacturer,Delhi,Tamil Nadu,India,5
+SUP0557,Elite Supplies,Wholesaler,Bangalore,Gujarat,India,5
+SUP0558,Metro Supplies,Wholesaler,Mumbai,Delhi,India,2
+SUP0559,Global Distributors,Manufacturer,Pune,Karnataka,India, 4
+SUP0560,Elite Traders,Distributor,Chennai,Gujarat,India,4
+SUP0561,Prime Traders,Distributor,Hyderabad,Maharashtra,India,1
+SUP0562,Global Distributors,Wholesaler,Surat,Gujarat,India,5
+SUP0563,Metro Technologies,Distributor,Pune,Maharashtra,India,3
+SUP0564,Prime Distributors,Distributor,Surat,Gujarat,India,3
+SUP0565,Prime Traders,Distributor,Pune,Gujarat,India,1
+SUP0566,Metro Supplies,Wholesaler,Delhi,Maharashtra,India,
+SUP0567,Elite Supplies,Distributor,Mumbai,Maharashtra,India,2
+SUP0568,Prime Supplies,Manufacturer,Bangalore,Delhi,India,
+SUP0569,Global Technologies,Wholesaler,Mumbai,Telangana,India,
+SUP0570,Metro Distributors,Manufacturer,Pune,Gujarat,India,2
+SUP0571,National Traders,Wholesaler,Mumbai,Maharashtra,India,5 
+SUP0572,National Supplies,Wholesaler,Bangalore,Delhi,India,5
+SUP0573,Global Distributors,Manufacturer,Delhi,Delhi,India,2
+SUP0574,Metro Supplies,Wholesaler,Mumbai,Delhi,India,5
+SUP0575,Elite Traders,Wholesaler,Hyderabad,Gujarat,India,1
+SUP0576,Elite Distributors,Distributor,Bangalore,Maharashtra,India,2
+SUP0577,Elite Supplies,Distributor,Ahmedabad,Delhi,India,1
+SUP0578,National Traders,Wholesaler,Ahmedabad,Maharashtra,India,5 
+SUP0579,Prime Traders,Manufacturer,Pune,Telangana,India,3
+SUP0580,Elite Traders,Distributor,Bangalore,Telangana,India,2
+SUP0581,Global Traders,Distributor,Bangalore,Maharashtra,India,5 
+SUP0582,National Distributors,Manufacturer,Delhi,Gujarat,India,5 
+SUP0583,Global Supplies,Manufacturer,Bangalore,Gujarat,India,3
+SUP0584,Elite Technologies,Manufacturer,Chennai,Tamil Nadu,India,1
+SUP0585,National Distributors,Wholesaler,Bangalore,Gujarat,India,1
+SUP0586,Elite Traders,Manufacturer,Mumbai,Gujarat,India,1
+SUP0587,Prime Traders,Distributor,Ahmedabad,Karnataka,India, 4
+SUP0588,Prime Traders,Wholesaler,Surat,Tamil Nadu,India,5
+SUP0589,Global Traders,Distributor,Pune,Maharashtra,India,5
+SUP0590,Elite Traders,Distributor,Ahmedabad,Telangana,India,5 
+SUP0591,Prime Distributors,Manufacturer,Pune,Tamil Nadu,India, 4
+SUP0592,Metro Distributors,Wholesaler,Mumbai,Telangana,India,5 
+SUP0593,Elite Technologies,Wholesaler,Surat,Maharashtra,India,3
+SUP0594,Elite Technologies,Distributor,Bangalore,Maharashtra,India,5 
+SUP0595,Prime Technologies,Manufacturer,Mumbai,Tamil Nadu,India,5 
+SUP0596,Metro Technologies,Manufacturer,Ahmedabad,Delhi,India, 4
+SUP0597,Prime Distributors,Manufacturer,Pune,Maharashtra,India,2
+SUP0598,Prime Technologies,Distributor,Bangalore,Telangana,India,5
+SUP0599,Global Supplies,Manufacturer,Pune,Karnataka,India,2
+SUP0600,Metro Technologies,Distributor,Chennai,Karnataka,India,
+SUP0601,Metro Supplies,Manufacturer,Delhi,Gujarat,India,5
+SUP0602,Metro Technologies,Distributor,Hyderabad,Karnataka,India,4
+SUP0603,Metro Traders,Wholesaler,Ahmedabad,Telangana,India,5 
+SUP0604,Global Technologies,Manufacturer,Mumbai,Telangana,India,1
+SUP0605,Metro Supplies,Distributor,Mumbai,Delhi,India,1
+SUP0606,Global Distributors,Manufacturer,Surat,Karnataka,India,
+SUP0607,National Technologies,Manufacturer,Surat,Gujarat,India,
+SUP0608,Global Traders,Wholesaler,Pune,Gujarat,India,1
+SUP0609,Elite Supplies,Manufacturer,Mumbai,Telangana,India,3
+SUP0610,Global Traders,Manufacturer,Delhi,Maharashtra,India,5
+SUP0611,Prime Traders,Distributor,Bangalore,Tamil Nadu,India,1
+SUP0612,Metro Distributors,Wholesaler,Surat,Gujarat,India,5 
+SUP0613,Global Technologies,Manufacturer,Pune,Tamil Nadu,India,
+SUP0614,Global Distributors,Distributor,Mumbai,Delhi,India,3
+SUP0615,Elite Technologies,Distributor,Surat,Maharashtra,India,5
+SUP0616,Prime Supplies,Distributor,Hyderabad,Karnataka,India,4
+SUP0617,Elite Traders,Manufacturer,Ahmedabad,Maharashtra,India,2
+SUP0618,Global Distributors,Manufacturer,Delhi,Gujarat,India, 4
+SUP0619,Elite Traders,Manufacturer,Pune,Maharashtra,India,1
+SUP0620,Global Supplies,Distributor,Chennai,Maharashtra,India,5
+SUP0621,Elite Supplies,Distributor,Surat,Tamil Nadu,India,
+SUP0622,Metro Technologies,Manufacturer,Bangalore,Tamil Nadu,India,3
+SUP0623,National Distributors,Manufacturer,Ahmedabad,Maharashtra,India,
+SUP0624,National Distributors,Manufacturer,Ahmedabad,Telangana,India,4
+SUP0625,Global Traders,Distributor,Pune,Tamil Nadu,India,3
+SUP0626,Metro Technologies,Distributor,Pune,Delhi,India,
+SUP0627,Global Traders,Distributor,Ahmedabad,Telangana,India, 4
+SUP0628,National Distributors,Wholesaler,Delhi,Telangana,India,4
+SUP0629,Elite Technologies,Wholesaler,Surat,Tamil Nadu,India,1
+SUP0630,National Technologies,Wholesaler,Chennai,Karnataka,India,5
+SUP0631,Global Technologies,Manufacturer,Chennai,Maharashtra,India, 4
+SUP0632,Global Traders,Manufacturer,Pune,Gujarat,India,1
+SUP0633,Global Technologies,Wholesaler,Mumbai,Tamil Nadu,India,3
+SUP0634,Metro Distributors,Distributor,Pune,Delhi,India,1
+SUP0635,Metro Traders,Distributor,Surat,Karnataka,India,2
+SUP0636,Global Supplies,Wholesaler,Chennai,Maharashtra,India, 4
+SUP0637,Elite Supplies,Manufacturer,Hyderabad,Delhi,India,1
+SUP0638,Elite Distributors,Manufacturer,Ahmedabad,Delhi,India,5
+SUP0639,National Traders,Distributor,Mumbai,Maharashtra,India,4
+SUP0640,Prime Technologies,Wholesaler,Bangalore,Delhi,India,2
+SUP0641,Prime Supplies,Manufacturer,Bangalore,Karnataka,India,5
+SUP0642,National Distributors,Manufacturer,Ahmedabad,Maharashtra,India,3
+SUP0643,National Technologies,Manufacturer,Bangalore,Gujarat,India,
+SUP0644,Metro Traders,Wholesaler,Ahmedabad,Tamil Nadu,India,
+SUP0645,Elite Technologies,Manufacturer,Ahmedabad,Telangana,India,3
+SUP0646,Global Traders,Wholesaler,Pune,Tamil Nadu,India,
+SUP0647,Elite Distributors,Wholesaler,Mumbai,Maharashtra,India,2
+SUP0648,Global Traders,Wholesaler,Hyderabad,Tamil Nadu,India,2
+SUP0649,Global Technologies,Manufacturer,Hyderabad,Gujarat,India,5
+SUP0650,Elite Distributors,Distributor,Surat,Maharashtra,India, 4
+SUP0651,Prime Distributors,Distributor,Delhi,Delhi,India,3
+SUP0652,Global Supplies,Wholesaler,Chennai,Tamil Nadu,India, 4
+SUP0653,National Technologies,Distributor,Bangalore,Telangana,India,5 
+SUP0654,National Technologies,Distributor,Surat,Gujarat,India,5
+SUP0655,Prime Supplies,Wholesaler,Delhi,Karnataka,India, 4
+SUP0656,National Distributors,Manufacturer,Delhi,Gujarat,India,
+SUP0657,National Traders,Distributor,Ahmedabad,Telangana,India,4
+SUP0658,Global Supplies,Manufacturer,Ahmedabad,Telangana,India,2
+SUP0659,Global Distributors,Manufacturer,Delhi,Gujarat,India,4
+SUP0660,Metro Technologies,Wholesaler,Bangalore,Gujarat,India,3
+SUP0661,National Distributors,Wholesaler,Delhi,Karnataka,India,3
+SUP0662,National Traders,Manufacturer,Delhi,Karnataka,India,5 
+SUP0663,Metro Technologies,Distributor,Surat,Gujarat,India,5
+SUP0664,National Technologies,Manufacturer,Bangalore,Delhi,India,1
+SUP0665,Global Traders,Wholesaler,Mumbai,Telangana,India, 4
+SUP0666,Prime Traders,Distributor,Ahmedabad,Delhi,India,4
+SUP0667,Prime Traders,Distributor,Surat,Delhi,India,4
+SUP0668,National Supplies,Wholesaler,Ahmedabad,Maharashtra,India,3
+SUP0669,National Supplies,Manufacturer,Mumbai,Maharashtra,India,
+SUP0670,Prime Traders,Manufacturer,Delhi,Tamil Nadu,India,
+SUP0671,Prime Supplies,Wholesaler,Surat,Tamil Nadu,India, 4
+SUP0672,Metro Distributors,Distributor,Ahmedabad,Gujarat,India,2
+SUP0673,Elite Technologies,Wholesaler,Bangalore,Karnataka,India,1
+SUP0674,Metro Distributors,Manufacturer,Ahmedabad,Karnataka,India, 4
+SUP0675,Metro Technologies,Wholesaler,Hyderabad,Maharashtra,India,4
+SUP0676,National Supplies,Manufacturer,Ahmedabad,Delhi,India,5 
+SUP0677,Prime Traders,Manufacturer,Mumbai,Karnataka,India,1
+SUP0678,Global Distributors,Manufacturer,Delhi,Maharashtra,India,1
+SUP0679,Metro Traders,Distributor,Surat,Gujarat,India,4
+SUP0680,Prime Traders,Distributor,Mumbai,Tamil Nadu,India,5
+SUP0681,Prime Technologies,Manufacturer,Ahmedabad,Karnataka,India,2
+SUP0682,Metro Distributors,Distributor,Hyderabad,Telangana,India,4
+SUP0683,Metro Traders,Manufacturer,Delhi,Delhi,India,1
+SUP0684,Global Supplies,Wholesaler,Mumbai,Gujarat,India,
+SUP0685,National Technologies,Distributor,Surat,Tamil Nadu,India,
+SUP0686,Elite Supplies,Wholesaler,Delhi,Delhi,India,1
+SUP0687,National Traders,Manufacturer,Ahmedabad,Karnataka,India,2
+SUP0688,Global Technologies,Distributor,Surat,Delhi,India,
+SUP0689,National Distributors,Manufacturer,Delhi,Gujarat,India,1
+SUP0690,Prime Supplies,Manufacturer,Hyderabad,Tamil Nadu,India,4
+SUP0691,Elite Distributors,Distributor,Bangalore,Maharashtra,India, 4
+SUP0692,Elite Traders,Wholesaler,Mumbai,Telangana,India,2
+SUP0693,Prime Supplies,Wholesaler,Pune,Gujarat,India,
+SUP0694,Global Technologies,Manufacturer,Surat,Tamil Nadu,India,5 
+SUP0695,Elite Distributors,Distributor,Delhi,Gujarat,India,1
+SUP0696,Elite Technologies,Distributor,Bangalore,Karnataka,India,4
+SUP0697,National Technologies,Manufacturer,Surat,Maharashtra,India,4
+SUP0698,Prime Traders,Distributor,Ahmedabad,Delhi,India,3
+SUP0699,Metro Distributors,Wholesaler,Chennai,Karnataka,India,
+SUP0700,Global Supplies,Wholesaler,Mumbai,Gujarat,India,
+SUP0701,National Supplies,Manufacturer,Surat,Maharashtra,India,
+SUP0702,Prime Supplies,Distributor,Surat,Maharashtra,India, 4
+SUP0703,Prime Technologies,Wholesaler,Bangalore,Delhi,India,3
+SUP0704,Global Traders,Distributor,Mumbai,Maharashtra,India,4
+SUP0705,Metro Distributors,Wholesaler,Hyderabad,Tamil Nadu,India,5
+SUP0706,National Supplies,Manufacturer,Mumbai,Tamil Nadu,India,3
+SUP0707,Metro Distributors,Manufacturer,Ahmedabad,Telangana,India,4
+SUP0708,National Distributors,Manufacturer,Delhi,Tamil Nadu,India,1
+SUP0709,Elite Technologies,Wholesaler,Mumbai,Telangana,India,4
+SUP0710,Prime Supplies,Distributor,Chennai,Tamil Nadu,India,1
+SUP0711,Metro Traders,Distributor,Bangalore,Telangana,India,1
+SUP0712,Metro Supplies,Manufacturer,Hyderabad,Gujarat,India,2
+SUP0713,Prime Distributors,Manufacturer,Pune,Telangana,India,4
+SUP0714,Elite Traders,Wholesaler,Mumbai,Tamil Nadu,India,1
+SUP0715,National Supplies,Distributor,Pune,Maharashtra,India,4
+SUP0716,Prime Distributors,Distributor,Ahmedabad,Gujarat,India,
+SUP0717,National Traders,Distributor,Ahmedabad,Gujarat,India, 4
+SUP0718,National Technologies,Wholesaler,Bangalore,Telangana,India, 4
+SUP0719,Prime Traders,Wholesaler,Hyderabad,Maharashtra,India,3
+SUP0720,Prime Technologies,Wholesaler,Delhi,Gujarat,India, 4
+SUP0721,Metro Technologies,Distributor,Mumbai,Delhi,India,1
+SUP0722,National Technologies,Manufacturer,Pune,Maharashtra,India,2
+SUP0723,Global Traders,Distributor,Mumbai,Karnataka,India,5
+SUP0724,Global Traders,Wholesaler,Chennai,Gujarat,India,3
+SUP0725,Elite Traders,Manufacturer,Delhi,Delhi,India,2
+SUP0726,Metro Traders,Wholesaler,Pune,Maharashtra,India,3
+SUP0727,Metro Traders,Manufacturer,Bangalore,Telangana,India,
+SUP0728,Global Supplies,Wholesaler,Bangalore,Telangana,India,5
+SUP0729,Metro Technologies,Distributor,Surat,Maharashtra,India,2
+SUP0730,National Supplies,Manufacturer,Bangalore,Maharashtra,India,5
+SUP0731,Global Distributors,Distributor,Pune,Maharashtra,India,5 
+SUP0732,National Traders,Wholesaler,Surat,Tamil Nadu,India,3
+SUP0733,Metro Distributors,Distributor,Ahmedabad,Gujarat,India,
+SUP0734,Global Distributors,Wholesaler,Mumbai,Tamil Nadu,India,5 
+SUP0735,Global Supplies,Wholesaler,Delhi,Tamil Nadu,India,1
+SUP0736,Global Distributors,Wholesaler,Ahmedabad,Maharashtra,India,3
+SUP0737,Metro Technologies,Wholesaler,Mumbai,Delhi,India, 4
+SUP0738,Prime Distributors,Manufacturer,Hyderabad,Gujarat,India,1
+SUP0739,Elite Distributors,Wholesaler,Chennai,Gujarat,India,5
+SUP0740,Metro Distributors,Wholesaler,Hyderabad,Maharashtra,India,1
+SUP0741,Global Technologies,Manufacturer,Hyderabad,Delhi,India,3
+SUP0742,Global Traders,Distributor,Ahmedabad,Karnataka,India, 4
+SUP0743,Prime Technologies,Distributor,Hyderabad,Maharashtra,India,1
+SUP0744,Global Supplies,Distributor,Mumbai,Gujarat,India,1
+SUP0745,Global Traders,Wholesaler,Ahmedabad,Gujarat,India,4
+SUP0746,Prime Technologies,Distributor,Surat,Delhi,India,3
+SUP0747,Prime Traders,Wholesaler,Surat,Karnataka,India,4
+SUP0748,Metro Traders,Wholesaler,Delhi,Telangana,India,5
+SUP0749,Prime Technologies,Wholesaler,Surat,Delhi,India,
+SUP0750,National Distributors,Manufacturer,Pune,Gujarat,India,1
+SUP0751,Elite Distributors,Wholesaler,Ahmedabad,Tamil Nadu,India,3
+SUP0752,Elite Technologies,Distributor,Ahmedabad,Karnataka,India,3
+SUP0753,Global Traders,Wholesaler,Bangalore,Gujarat,India,
+SUP0754,National Distributors,Distributor,Pune,Gujarat,India,5
+SUP0755,Elite Distributors,Wholesaler,Delhi,Karnataka,India,5
+SUP0756,Metro Technologies,Wholesaler,Hyderabad,Tamil Nadu,India,3
+SUP0757,Elite Supplies,Manufacturer,Mumbai,Karnataka,India,5
+SUP0758,Metro Traders,Distributor,Mumbai,Tamil Nadu,India,1
+SUP0759,Prime Traders,Distributor,Bangalore,Maharashtra,India,1
+SUP0760,Global Supplies,Distributor,Pune,Karnataka,India,2
+SUP0761,National Distributors,Manufacturer,Ahmedabad,Delhi,India,4
+SUP0762,National Traders,Distributor,Surat,Gujarat,India,2
+SUP0763,Elite Distributors,Wholesaler,Pune,Gujarat,India,5
+SUP0764,Metro Technologies,Manufacturer,Delhi,Maharashtra,India,
+SUP0765,Prime Distributors,Manufacturer,Mumbai,Karnataka,India,2
+SUP0766,Metro Technologies,Manufacturer,Bangalore,Karnataka,India,5
+SUP0767,Global Traders,Distributor,Surat,Karnataka,India,5
+SUP0768,Global Traders,Manufacturer,Ahmedabad,Tamil Nadu,India,
+SUP0769,Metro Traders,Wholesaler,Hyderabad,Tamil Nadu,India,2
+SUP0770,Prime Technologies,Wholesaler,Surat,Delhi,India,
+SUP0771,National Traders,Manufacturer,Mumbai,Maharashtra,India,
+SUP0772,Global Supplies,Manufacturer,Pune,Delhi,India, 4
+SUP0773,Elite Supplies,Manufacturer,Mumbai,Delhi,India,5
+SUP0774,Elite Supplies,Distributor,Bangalore,Tamil Nadu,India,
+SUP0775,Prime Technologies,Distributor,Surat,Gujarat,India,1
+SUP0776,Metro Distributors,Manufacturer,Surat,Karnataka,India,3
+SUP0777,Prime Supplies,Wholesaler,Chennai,Maharashtra,India,5
+SUP0778,Elite Distributors,Manufacturer,Hyderabad,Gujarat,India,3
+SUP0779,National Supplies,Wholesaler,Bangalore,Telangana,India, 4
+SUP0780,National Distributors,Distributor,Surat,Telangana,India,
+SUP0781,National Traders,Manufacturer,Surat,Karnataka,India,3
+SUP0782,Elite Traders,Wholesaler,Chennai,Maharashtra,India,3
+SUP0783,Prime Technologies,Distributor,Ahmedabad,Delhi,India, 4
+SUP0784,National Traders,Manufacturer,Surat,Tamil Nadu,India,3
+SUP0785,Elite Supplies,Wholesaler,Mumbai,Karnataka,India,2
+SUP0786,Global Traders,Manufacturer,Delhi,Tamil Nadu,India,3
+SUP0787,National Distributors,Distributor,Pune,Gujarat,India,5
+SUP0788,Metro Distributors,Wholesaler,Surat,Maharashtra,India,3
+SUP0789,Elite Distributors,Manufacturer,Ahmedabad,Gujarat,India,4
+SUP0790,Global Supplies,Distributor,Hyderabad,Karnataka,India,3
+SUP0791,Prime Distributors,Distributor,Chennai,Gujarat,India,2
+SUP0792,National Technologies,Distributor,Hyderabad,Tamil Nadu,India,
+SUP0793,National Distributors,Distributor,Ahmedabad,Gujarat,India,4
+SUP0794,Elite Distributors,Wholesaler,Pune,Telangana,India,5
+SUP0795,Prime Distributors,Distributor,Surat,Telangana,India,1
+SUP0796,Global Technologies,Distributor,Hyderabad,Delhi,India,5
+SUP0797,Global Distributors,Wholesaler,Delhi,Gujarat,India,5 
+SUP0798,Prime Traders,Manufacturer,Hyderabad,Delhi,India,
+SUP0799,Metro Supplies,Distributor,Ahmedabad,Karnataka,India,3
+SUP0800,Global Traders,Distributor,Delhi,Delhi,India,
+SUP0801,Global Distributors,Manufacturer,Surat,Karnataka,India,5
+SUP0802,National Distributors,Manufacturer,Delhi,Gujarat,India,
+SUP0803,Prime Technologies,Distributor,Ahmedabad,Gujarat,India,3
+SUP0804,Elite Technologies,Distributor,Surat,Delhi,India, 4
+SUP0805,National Distributors,Distributor,Mumbai,Delhi,India,2
+SUP0806,Elite Distributors,Manufacturer,Ahmedabad,Gujarat,India,2
+SUP0807,Metro Technologies,Distributor,Surat,Karnataka,India,5
+SUP0808,Metro Supplies,Distributor,Delhi,Maharashtra,India,5 
+SUP0809,Metro Distributors,Wholesaler,Ahmedabad,Telangana,India,5 
+SUP0810,Prime Supplies,Distributor,Pune,Delhi,India,
+SUP0811,Elite Supplies,Distributor,Delhi,Karnataka,India,4
+SUP0812,National Distributors,Distributor,Ahmedabad,Karnataka,India,3
+SUP0813,Prime Supplies,Manufacturer,Surat,Tamil Nadu,India,2
+SUP0814,Prime Traders,Wholesaler,Hyderabad,Karnataka,India,5
+SUP0815,National Distributors,Manufacturer,Mumbai,Telangana,India,2
+SUP0816,Elite Technologies,Wholesaler,Bangalore,Delhi,India,5
+SUP0817,Global Traders,Distributor,Mumbai,Delhi,India, 4
+SUP0818,Global Supplies,Manufacturer,Delhi,Maharashtra,India,1
+SUP0819,National Technologies,Manufacturer,Bangalore,Tamil Nadu,India,3
+SUP0820,Prime Technologies,Wholesaler,Ahmedabad,Karnataka,India,5
+SUP0821,Prime Traders,Wholesaler,Bangalore,Gujarat,India, 4
+SUP0822,National Supplies,Distributor,Ahmedabad,Gujarat,India,3
+SUP0823,Elite Traders,Manufacturer,Bangalore,Gujarat,India,5 
+SUP0824,Prime Traders,Distributor,Ahmedabad,Maharashtra,India,4
+SUP0825,National Traders,Wholesaler,Hyderabad,Tamil Nadu,India,
+SUP0826,Metro Traders,Manufacturer,Pune,Telangana,India,3
+SUP0827,Elite Distributors,Manufacturer,Pune,Gujarat,India,1
+SUP0828,Global Traders,Wholesaler,Pune,Telangana,India,4
+SUP0829,National Distributors,Manufacturer,Bangalore,Maharashtra,India,2
+SUP0830,Metro Traders,Wholesaler,Hyderabad,Gujarat,India,3
+SUP0831,Prime Distributors,Manufacturer,Mumbai,Delhi,India,
+SUP0832,National Technologies,Manufacturer,Surat,Tamil Nadu,India,3
+SUP0833,Global Distributors,Manufacturer,Bangalore,Gujarat,India, 4
+SUP0834,Metro Distributors,Distributor,Chennai,Maharashtra,India,5 
+SUP0835,Metro Supplies,Wholesaler,Bangalore,Tamil Nadu,India,
+SUP0836,National Supplies,Manufacturer,Bangalore,Tamil Nadu,India,4
+SUP0837,Metro Technologies,Manufacturer,Ahmedabad,Delhi,India,2
+SUP0838,Prime Supplies,Manufacturer,Surat,Karnataka,India, 4
+SUP0839,Global Traders,Manufacturer,Pune,Karnataka,India,3
+SUP0840,Elite Technologies,Wholesaler,Ahmedabad,Delhi,India,1
+SUP0841,National Distributors,Wholesaler,Bangalore,Maharashtra,India,4
+SUP0842,National Distributors,Distributor,Bangalore,Tamil Nadu,India,1
+SUP0843,Metro Distributors,Manufacturer,Mumbai,Delhi,India,3
+SUP0844,Metro Distributors,Manufacturer,Ahmedabad,Telangana,India, 4
+SUP0845,Global Supplies,Distributor,Mumbai,Maharashtra,India,3
+SUP0846,National Distributors,Manufacturer,Ahmedabad,Delhi,India,1
+SUP0847,Prime Technologies,Distributor,Ahmedabad,Tamil Nadu,India,3
+SUP0848,Prime Supplies,Manufacturer,Chennai,Delhi,India,5
+SUP0849,Metro Distributors,Manufacturer,Chennai,Gujarat,India,4
+SUP0850,Metro Technologies,Wholesaler,Delhi,Gujarat,India,5 
+SUP0851,Metro Distributors,Wholesaler,Chennai,Karnataka,India,4
+SUP0852,Metro Supplies,Distributor,Hyderabad,Gujarat,India,5
+SUP0853,Prime Traders,Wholesaler,Mumbai,Karnataka,India,1
+SUP0854,National Traders,Distributor,Ahmedabad,Delhi,India,4
+SUP0855,Prime Technologies,Distributor,Bangalore,Karnataka,India,1
+SUP0856,Elite Distributors,Manufacturer,Hyderabad,Tamil Nadu,India,
+SUP0857,National Technologies,Distributor,Mumbai,Tamil Nadu,India,1
+SUP0858,Metro Supplies,Distributor,Bangalore,Maharashtra,India,4
+SUP0859,Metro Technologies,Wholesaler,Pune,Karnataka,India,4
+SUP0860,Prime Supplies,Manufacturer,Chennai,Gujarat,India,3
+SUP0861,Global Supplies,Wholesaler,Mumbai,Telangana,India,5 
+SUP0862,National Supplies,Wholesaler,Pune,Tamil Nadu,India,
+SUP0863,Prime Traders,Wholesaler,Delhi,Telangana,India,
+SUP0864,Global Traders,Distributor,Ahmedabad,Gujarat,India,1
+SUP0865,Prime Traders,Wholesaler,Chennai,Gujarat,India,
+SUP0866,Global Distributors,Manufacturer,Mumbai,Delhi,India, 4
+SUP0867,Global Distributors,Wholesaler,Delhi,Delhi,India,4
+SUP0868,Elite Technologies,Wholesaler,Surat,Telangana,India,5
+SUP0869,Elite Distributors,Wholesaler,Hyderabad,Maharashtra,India,1
+SUP0870,Elite Supplies,Wholesaler,Delhi,Delhi,India,3
+SUP0871,Global Distributors,Wholesaler,Mumbai,Tamil Nadu,India,3
+SUP0872,Global Supplies,Wholesaler,Chennai,Karnataka,India,2
+SUP0873,Elite Supplies,Distributor,Pune,Karnataka,India, 4
+SUP0874,Global Distributors,Wholesaler,Ahmedabad,Maharashtra,India,2
+SUP0875,Elite Supplies,Manufacturer,Mumbai,Tamil Nadu,India,
+SUP0876,Prime Traders,Manufacturer,Ahmedabad,Gujarat,India,
+SUP0877,Metro Traders,Distributor,Chennai,Karnataka,India,4
+SUP0878,Metro Technologies,Distributor,Pune,Telangana,India,4
+SUP0879,Global Technologies,Distributor,Surat,Tamil Nadu,India,4
+SUP0880,Global Traders,Distributor,Hyderabad,Tamil Nadu,India,5 
+SUP0881,National Technologies,Wholesaler,Delhi,Maharashtra,India,2
+SUP0882,Global Technologies,Distributor,Mumbai,Telangana,India,
+SUP0883,National Traders,Wholesaler,Surat,Gujarat,India,3
+SUP0884,Prime Traders,Manufacturer,Ahmedabad,Maharashtra,India,5 
+SUP0885,Global Supplies,Distributor,Pune,Tamil Nadu,India,1
+SUP0886,National Traders,Distributor,Mumbai,Gujarat,India,2
+SUP0887,Prime Supplies,Distributor,Pune,Telangana,India,
+SUP0888,Elite Supplies,Distributor,Chennai,Karnataka,India,1
+SUP0889,Elite Distributors,Manufacturer,Pune,Delhi,India,5
+SUP0890,Metro Distributors,Manufacturer,Mumbai,Tamil Nadu,India,2
+SUP0891,Global Supplies,Manufacturer,Ahmedabad,Delhi,India,2
+SUP0892,Global Technologies,Wholesaler,Ahmedabad,Telangana,India,2
+SUP0893,Prime Traders,Wholesaler,Hyderabad,Gujarat,India,3
+SUP0894,Prime Distributors,Manufacturer,Surat,Telangana,India,3
+SUP0895,National Supplies,Distributor,Mumbai,Gujarat,India,2
+SUP0896,Elite Technologies,Wholesaler,Mumbai,Delhi,India,4
+SUP0897,Prime Technologies,Distributor,Ahmedabad,Telangana,India,5
+SUP0898,National Traders,Distributor,Ahmedabad,Karnataka,India,5 
+SUP0899,Elite Traders,Manufacturer,Surat,Tamil Nadu,India,5 
+SUP0900,National Supplies,Manufacturer,Chennai,Telangana,India,3
+SUP0901,Metro Traders,Wholesaler,Ahmedabad,Karnataka,India,5 
+SUP0902,National Supplies,Wholesaler,Bangalore,Maharashtra,India,5 
+SUP0903,National Supplies,Manufacturer,Ahmedabad,Telangana,India,2
+SUP0904,Global Technologies,Distributor,Delhi,Delhi,India,
+SUP0905,National Distributors,Distributor,Bangalore,Karnataka,India,5
+SUP0906,Prime Traders,Distributor,Surat,Delhi,India,3
+SUP0907,Global Supplies,Wholesaler,Pune,Gujarat,India,4
+SUP0908,Global Distributors,Wholesaler,Surat,Karnataka,India,1
+SUP0909,Metro Traders,Wholesaler,Ahmedabad,Gujarat,India,5
+SUP0910,Elite Technologies,Manufacturer,Chennai,Maharashtra,India,2
+SUP0911,Elite Traders,Distributor,Pune,Karnataka,India,4
+SUP0912,Prime Traders,Distributor,Mumbai,Tamil Nadu,India,1
+SUP0913,Metro Technologies,Distributor,Chennai,Telangana,India,5 
+SUP0914,Global Traders,Wholesaler,Ahmedabad,Gujarat,India,4
+SUP0915,Metro Traders,Wholesaler,Surat,Karnataka,India,2
+SUP0916,Prime Technologies,Wholesaler,Pune,Delhi,India,5
+SUP0917,Prime Supplies,Manufacturer,Surat,Karnataka,India,1
+SUP0918,Global Technologies,Wholesaler,Pune,Gujarat,India,4
+SUP0919,Metro Traders,Manufacturer,Bangalore,Tamil Nadu,India,2
+SUP0920,Prime Distributors,Manufacturer,Chennai,Maharashtra,India,4
+SUP0921,National Traders,Distributor,Chennai,Karnataka,India,2
+SUP0922,Elite Supplies,Distributor,Pune,Telangana,India,
+SUP0923,Global Distributors,Manufacturer,Pune,Karnataka,India,
+SUP0924,Prime Distributors,Manufacturer,Chennai,Telangana,India,1
+SUP0925,Prime Distributors,Wholesaler,Mumbai,Gujarat,India,4
+SUP0926,Prime Technologies,Distributor,Delhi,Gujarat,India, 4
+SUP0927,Prime Traders,Distributor,Ahmedabad,Tamil Nadu,India,1
+SUP0928,Elite Technologies,Distributor,Surat,Gujarat,India,1
+SUP0929,Elite Supplies,Distributor,Mumbai,Tamil Nadu,India, 4
+SUP0930,National Supplies,Wholesaler,Hyderabad,Tamil Nadu,India, 4
+SUP0931,Global Supplies,Manufacturer,Surat,Tamil Nadu,India,1
+SUP0932,National Distributors,Distributor,Chennai,Gujarat,India, 4
+SUP0933,Elite Distributors,Manufacturer,Chennai,Maharashtra,India,
+SUP0934,Metro Technologies,Distributor,Delhi,Tamil Nadu,India,2
+SUP0935,Prime Distributors,Wholesaler,Chennai,Delhi,India,4
+SUP0936,Prime Technologies,Manufacturer,Pune,Gujarat,India,2
+SUP0937,Metro Supplies,Manufacturer,Bangalore,Karnataka,India, 4
+SUP0938,Global Traders,Manufacturer,Delhi,Karnataka,India,5 
+SUP0939,Global Supplies,Manufacturer,Chennai,Telangana,India,1
+SUP0940,Prime Traders,Manufacturer,Mumbai,Delhi,India, 4
+SUP0941,Prime Supplies,Wholesaler,Chennai,Telangana,India,3
+SUP0942,Global Technologies,Wholesaler,Delhi,Telangana,India,3
+SUP0943,Global Traders,Wholesaler,Delhi,Maharashtra,India,
+SUP0944,Elite Traders,Wholesaler,Surat,Gujarat,India,5
+SUP0945,Elite Distributors,Distributor,Bangalore,Tamil Nadu,India,3
+SUP0946,Prime Technologies,Manufacturer,Bangalore,Maharashtra,India,4
+SUP0947,Metro Technologies,Distributor,Ahmedabad,Maharashtra,India,4
+SUP0948,Elite Distributors,Manufacturer,Surat,Gujarat,India,3
+SUP0949,Prime Supplies,Manufacturer,Bangalore,Maharashtra,India,4
+SUP0950,Global Traders,Manufacturer,Delhi,Delhi,India, 4
+SUP0951,Global Supplies,Distributor,Surat,Karnataka,India,1
+SUP0952,Prime Technologies,Wholesaler,Pune,Maharashtra,India,1
+SUP0953,Elite Distributors,Manufacturer,Hyderabad,Gujarat,India,5 
+SUP0954,Elite Supplies,Manufacturer,Delhi,Tamil Nadu,India,3
+SUP0955,Elite Traders,Distributor,Delhi,Delhi,India,5
+SUP0956,Prime Technologies,Distributor,Delhi,Gujarat,India,5 
+SUP0957,Prime Traders,Wholesaler,Hyderabad,Tamil Nadu,India,5
+SUP0958,National Distributors,Wholesaler,Chennai,Tamil Nadu,India,5
+SUP0959,National Technologies,Manufacturer,Delhi,Gujarat,India, 4
+SUP0960,Global Supplies,Wholesaler,Ahmedabad,Telangana,India,2
+SUP0961,Prime Distributors,Manufacturer,Mumbai,Delhi,India,3
+SUP0962,Prime Technologies,Distributor,Mumbai,Tamil Nadu,India,
+SUP0963,Prime Traders,Wholesaler,Ahmedabad,Telangana,India,3
+SUP0964,Global Traders,Wholesaler,Delhi,Tamil Nadu,India, 4
+SUP0965,Metro Supplies,Wholesaler,Surat,Karnataka,India,1
+SUP0966,Elite Supplies,Manufacturer,Surat,Gujarat,India,1
+SUP0967,Global Technologies,Distributor,Delhi,Tamil Nadu,India,1
+SUP0968,Elite Distributors,Distributor,Hyderabad,Karnataka,India,1
+SUP0969,Elite Traders,Distributor,Bangalore,Delhi,India,4
+SUP0970,Elite Supplies,Wholesaler,Chennai,Tamil Nadu,India,1
+SUP0971,National Technologies,Manufacturer,Ahmedabad,Delhi,India,5
+SUP0972,National Traders,Manufacturer,Pune,Tamil Nadu,India,5 
+SUP0973,Metro Technologies,Distributor,Chennai,Karnataka,India,4
+SUP0974,Prime Supplies,Distributor,Chennai,Maharashtra,India,
+SUP0975,Metro Technologies,Wholesaler,Bangalore,Maharashtra,India,5
+SUP0976,National Technologies,Wholesaler,Mumbai,Tamil Nadu,India,3
+SUP0977,Elite Supplies,Wholesaler,Pune,Tamil Nadu,India,5
+SUP0978,Elite Supplies,Wholesaler,Pune,Telangana,India,3
+SUP0979,Global Traders,Wholesaler,Bangalore,Telangana,India,3
+SUP0980,National Traders,Distributor,Bangalore,Gujarat,India,5
+SUP0981,Metro Traders,Wholesaler,Surat,Maharashtra,India, 4
+SUP0982,National Supplies,Manufacturer,Hyderabad,Gujarat,India,
+SUP0983,National Distributors,Manufacturer,Ahmedabad,Telangana,India,2
+SUP0984,Metro Traders,Distributor,Surat,Telangana,India,3
+SUP0985,National Technologies,Manufacturer,Surat,Gujarat,India,5 
+SUP0986,National Distributors,Distributor,Chennai,Telangana,India,4
+SUP0987,Metro Distributors,Distributor,Chennai,Telangana,India, 4
+SUP0988,National Supplies,Manufacturer,Bangalore,Karnataka,India,
+SUP0989,Metro Distributors,Wholesaler,Pune,Tamil Nadu,India,3
+SUP0990,Global Traders,Distributor,Surat,Delhi,India, 4
+SUP0991,Global Distributors,Distributor,Chennai,Telangana,India,4
+SUP0992,Global Traders,Manufacturer,Surat,Tamil Nadu,India,3
+SUP0993,Global Supplies,Distributor,Ahmedabad,Karnataka,India, 4
+SUP0994,National Traders,Wholesaler,Ahmedabad,Delhi,India, 4
+SUP0995,Prime Supplies,Distributor,Pune,Gujarat,India,5
+SUP0996,National Traders,Wholesaler,Pune,Karnataka,India,3
+SUP0997,Elite Distributors,Manufacturer,Bangalore,Tamil Nadu,India,5 
+SUP0998,Metro Distributors,Manufacturer,Chennai,Gujarat,India, 4
+SUP0999,National Distributors,Wholesaler,Chennai,Maharashtra,India,2
+SUP1000,National Supplies,Wholesaler,Mumbai,Delhi,India, 4
